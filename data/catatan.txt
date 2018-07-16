@@ -2,4 +2,20 @@ Observational (misal tanpa obat) vs Experimental (misal dg obat) data set
 
 A-B testing
 
+Bagaimana membedakan:
+Noise --> kalau dirata2 hasilnya nol --> smoothing --> ditangani dengan moving average
+Outlier --> 
+
+concept drift --> 
+
+KDD:
+...
+- data cleaning and preprocessing
+- data reduction and projection
+data mining
+dst
+
+Big Data --> infrastruktur --> pola programming
+- improve operations, and make faster, more intelligent decision
+- structured vs unstructured
 
