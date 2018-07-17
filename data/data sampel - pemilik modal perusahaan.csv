@@ -1,0 +1,13 @@
+ID,FirstName,SurName,Gender,Age,CompanyName,Address,Town,PostalCode
+101,peter,jones,Male,36,jones cafe,50 riverways,birmingham,168934
+102,lisa sefton,,Female,39,,76 the avenue,leicester,139084
+103,a baker,,Male,41,bakery baker ltd,leicester,139084,
+104,Richard,Evans1,,43,Richard’s Treat’s,9 charles street,Bristol,145012
+105,Alex,,Male,54,The Alex Centre,15 athol street,Liverpool,134702
+106,Darren,Knight09,male,39,Darrens’ Delight,,Leeds,109088
+107,Janine,,female,555,The Janine Way,10 Fleet Place,Sheffield,123513
+109,Katherine,Bolton,Female,0,Bolton Foods,bond Street,,139084
+110,Emma,Wright,,47,The Write Way Pld,280 Bath road,Menchaster,145067
+111,emma,w,female,47,The Write WY,280 Bath rd,menchaster,145067
+112,David,Smith,M,54,Dave’s Gifts,PO BOX 21,Newcastle upon Tyne,156911
+113,Dave,Smith,M,54,Dave’s Gift,po box,Newcastle,156911
